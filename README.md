@@ -27,6 +27,7 @@
 - metadata는 object를 설명하는 name-value 의 pairs
   * metadata는 mutable
   * object data는 immutable 
+- 가십 프로토콜로 서버 간의 상태 파악
 ```
 
 #### 설계
